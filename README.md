@@ -51,6 +51,7 @@ The demonstration is available [here](http://www.youtube.com/watch?v=_RfBUEcvynM
 * Nikita Oleksov
 
 ### Links
-* [The Browser Exploitation Framework Project] (https://github.com/beefproject/beef)
+* [Hooked Browser Network with BeEF and Google Drive](http://blog.beefproject.com/2016/01/hooked-browser-network-with-beef-and.html)
 * [Hooked-Browser Meshed-Networks with WebRTC. Part 1] (http://blog.beefproject.com/2015/01/hooked-browser-meshed-networks-with.html)
 * [Hooked-Browser Meshed-Networks with WebRTC. Part 2](http://blog.beefproject.com/2015/01/hooked-browser-meshed-networks-with_26.html)
+* [The Browser Exploitation Framework Project] (https://github.com/beefproject/beef)
