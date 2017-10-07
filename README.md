@@ -1,7 +1,7 @@
 # beef-drive
 
 ## Description
-This is a special version of the [BeEF] (https://github.com/beefproject/beef) implementing all communications with its hooked browsers (zombies) via Google Drive service.
+This is a special version of the [BeEF](https://github.com/beefproject/beef) implementing all communications with its hooked browsers (zombies) via Google Drive service.
 
 At the present time [Browser Exploitation Framework (BeEF)](http://beefproject.com/) implements communications with hooked browsers using standard mechanisms (e.g., XMLHttpRequest, WebSockets). It also supports [experimental WebRTC-based mechanism](http://blog.beefproject.com/2015/01/hooked-browser-meshed-networks-with.html#more)
 for creation a hooked browser meshed-network. The main purpose of the last mechanism is avoiding tracking of post-exploitation communication with BeEF command and control server.
