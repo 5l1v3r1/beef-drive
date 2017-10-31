@@ -40,7 +40,7 @@ file system primitives and its API.
 
 
 ### Slides
-The slides from our talk at [Zero Nights 2015](http://2015.zeronights.org/) are available [here] (http://www.slideshare.net/dnkolegov/zn27112015).
+The slides from our talk at [Zero Nights 2015](http://2015.zeronights.org/) are available [here](http://www.slideshare.net/dnkolegov/zn27112015).
 
 ### Video
 The demonstration is available [here](http://www.youtube.com/watch?v=_RfBUEcvynM).
@@ -52,6 +52,6 @@ The demonstration is available [here](http://www.youtube.com/watch?v=_RfBUEcvynM
 
 ### Links
 * [Hooked Browser Network with BeEF and Google Drive](http://blog.beefproject.com/2016/01/hooked-browser-network-with-beef-and.html)
-* [Hooked-Browser Meshed-Networks with WebRTC. Part 1] (http://blog.beefproject.com/2015/01/hooked-browser-meshed-networks-with.html)
+* [Hooked-Browser Meshed-Networks with WebRTC. Part 1](http://blog.beefproject.com/2015/01/hooked-browser-meshed-networks-with.html)
 * [Hooked-Browser Meshed-Networks with WebRTC. Part 2](http://blog.beefproject.com/2015/01/hooked-browser-meshed-networks-with_26.html)
-* [The Browser Exploitation Framework Project] (https://github.com/beefproject/beef)
+* [The Browser Exploitation Framework Project](https://github.com/beefproject/beef)
